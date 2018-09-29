@@ -1,3 +1,5 @@
+# Unoptimised build
+
 FROM node:8.9-alpine
  
 # prep the container

@@ -1,3 +1,5 @@
+# Optimised build
+
 ## BUILD CONTAINER
 # build environment - contains all dev dependencies (~500MB)
 FROM node:8.9-alpine as builder
